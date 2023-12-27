@@ -31,4 +31,4 @@ Overall Learning Perspective:
   - Develop the ability to analyze and design network protocols and applications.
 - Acquire practical skills applicable to networking careers, including troubleshooting and optimizing network performance.
 
-In our increasingly connected world, a solid grasp of network fundamentals is invaluable not only for networking professionals but for anyone in the tech field. This course lays the groundwork for advanced study and careers in network design, cybersecurity, and IT infrastructure.
+In our increasingly connected world, a solid grasp of network fundamentals is crucial, not only for the networking professionals, but for anyone in the technology field. This course lays the groundwork for advanced study and careers in network design, cybersecurity, and IT infrastructure.
