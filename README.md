@@ -3,7 +3,8 @@ Introduction to Internetworking:
 
 CS446 is structured to create a practical understanding of computer networks with a special focus on the Internet. The course aimed to teach theoretical concepts with real-world network applications, making it ideal for students who are interested in how the complex world of online communication works.
 
-Course Structure and Content:
+
+# Course Structure and Content
 
 Introduction to the Internet:
   - The course begins with an exploratory overview of the Internet, introducing students to its foundational structure and components. This includes understanding how different networks come together to form the global Internet.
